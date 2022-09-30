@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="English4Kids.MainPage"
+             BackgroundImageSource="d.jpg">
+    <StackLayout>
+        <Button Text="Study" FontSize="40" FontAttributes="Bold"
+                     Clicked="btn_study_clicked"
+                     HorizontalOptions="CenterAndExpand"
+                     VerticalOptions="CenterAndExpand" CornerRadius="60" BackgroundColor="#2CF612"/>
+        <Button Text="Study video" FontSize="40" FontAttributes="Bold" BackgroundColor="#E9FA08" TextColor="Black"
+                     Clicked="btn_studywithvideo_clicked"
+                     HorizontalOptions="CenterAndExpand"
+                     VerticalOptions="CenterAndExpand" CornerRadius="60"/>
+        <Button Text="Quiz" FontSize="40" FontAttributes="Bold"
+                     Clicked="btn_quiz_clicked"
+                     HorizontalOptions="CenterAndExpand"
+                     VerticalOptions="CenterAndExpand" CornerRadius="60" BackgroundColor="#FAA708"/>
+        <Button Text="Login" FontSize="40" FontAttributes="Bold"
+                     Clicked="btn_login_clicked"
+                     HorizontalOptions="CenterAndExpand"
+                     VerticalOptions="CenterAndExpand" CornerRadius="60" BackgroundColor="#F708E9"/>
+    </StackLayout>
+    
+
+</ContentPage>

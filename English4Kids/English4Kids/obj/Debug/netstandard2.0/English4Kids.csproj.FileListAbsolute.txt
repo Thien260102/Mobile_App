@@ -1,0 +1,95 @@
+C:\NhapMonUngDungDiDong-nhom6\doan\English4Kids\English4Kids\English4Kids\bin\Debug\netstandard2.0\English4Kids.deps.json
+C:\NhapMonUngDungDiDong-nhom6\doan\English4Kids\English4Kids\English4Kids\bin\Debug\netstandard2.0\English4Kids.dll
+C:\NhapMonUngDungDiDong-nhom6\doan\English4Kids\English4Kids\English4Kids\bin\Debug\netstandard2.0\ref\English4Kids.dll
+C:\NhapMonUngDungDiDong-nhom6\doan\English4Kids\English4Kids\English4Kids\bin\Debug\netstandard2.0\English4Kids.pdb
+C:\NhapMonUngDungDiDong-nhom6\doan\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\English4Kids.AssemblyInfoInputs.cache
+C:\NhapMonUngDungDiDong-nhom6\doan\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\English4Kids.AssemblyInfo.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\English4Kids.csproj.CoreCompileInputs.cache
+C:\NhapMonUngDungDiDong-nhom6\doan\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\XamlC.stamp
+C:\NhapMonUngDungDiDong-nhom6\doan\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\English4Kids.dll
+C:\NhapMonUngDungDiDong-nhom6\doan\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\ref\English4Kids.dll
+C:\NhapMonUngDungDiDong-nhom6\doan\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\English4Kids.pdb
+C:\NhapMonUngDungDiDong-nhom6\doan\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\English4Kids.csproj.AssemblyReference.cache
+C:\NhapMonUngDungDiDong-nhom6\doan\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\English4Kids.GeneratedMSBuildEditorConfig.editorconfig
+C:\NhapMonUngDungDiDong-nhom6\doan\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\login.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\Quiz.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\Signup.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\study.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\studywithvideo.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\study_ABC.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\study_Color.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\study_Number.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\Video.xaml.g.cs
+C:\Users\ASUS\Downloads\English4Kids\English4Kids\English4Kids\English4Kids\bin\Debug\netstandard2.0\English4Kids.deps.json
+C:\Users\ASUS\Downloads\English4Kids\English4Kids\English4Kids\English4Kids\bin\Debug\netstandard2.0\English4Kids.dll
+C:\Users\ASUS\Downloads\English4Kids\English4Kids\English4Kids\English4Kids\bin\Debug\netstandard2.0\ref\English4Kids.dll
+C:\Users\ASUS\Downloads\English4Kids\English4Kids\English4Kids\English4Kids\bin\Debug\netstandard2.0\English4Kids.pdb
+C:\Users\ASUS\Downloads\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\English4Kids.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ASUS\Downloads\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\login.xaml.g.cs
+C:\Users\ASUS\Downloads\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ASUS\Downloads\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\Quiz.xaml.g.cs
+C:\Users\ASUS\Downloads\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\Signup.xaml.g.cs
+C:\Users\ASUS\Downloads\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\study.xaml.g.cs
+C:\Users\ASUS\Downloads\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\studywithvideo.xaml.g.cs
+C:\Users\ASUS\Downloads\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\study_ABC.xaml.g.cs
+C:\Users\ASUS\Downloads\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\study_Color.xaml.g.cs
+C:\Users\ASUS\Downloads\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\study_Number.xaml.g.cs
+C:\Users\ASUS\Downloads\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\Video.xaml.g.cs
+C:\Users\ASUS\Downloads\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\English4Kids.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\English4Kids.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\English4Kids.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ASUS\Downloads\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\English4Kids.dll
+C:\Users\ASUS\Downloads\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\ref\English4Kids.dll
+C:\Users\ASUS\Downloads\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\English4Kids.pdb
+C:\NhapMonUngDungDiDong-nhom6\doan\sửa lại mới nhất\English4Kids\English4Kids\English4Kids\English4Kids\bin\Debug\netstandard2.0\English4Kids.deps.json
+C:\NhapMonUngDungDiDong-nhom6\doan\sửa lại mới nhất\English4Kids\English4Kids\English4Kids\English4Kids\bin\Debug\netstandard2.0\English4Kids.dll
+C:\NhapMonUngDungDiDong-nhom6\doan\sửa lại mới nhất\English4Kids\English4Kids\English4Kids\English4Kids\bin\Debug\netstandard2.0\ref\English4Kids.dll
+C:\NhapMonUngDungDiDong-nhom6\doan\sửa lại mới nhất\English4Kids\English4Kids\English4Kids\English4Kids\bin\Debug\netstandard2.0\English4Kids.pdb
+C:\NhapMonUngDungDiDong-nhom6\doan\sửa lại mới nhất\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\English4Kids.csproj.AssemblyReference.cache
+C:\NhapMonUngDungDiDong-nhom6\doan\sửa lại mới nhất\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\English4Kids.GeneratedMSBuildEditorConfig.editorconfig
+C:\NhapMonUngDungDiDong-nhom6\doan\sửa lại mới nhất\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\sửa lại mới nhất\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\login.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\sửa lại mới nhất\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\sửa lại mới nhất\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\Quiz.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\sửa lại mới nhất\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\Signup.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\sửa lại mới nhất\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\study.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\sửa lại mới nhất\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\studywithvideo.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\sửa lại mới nhất\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\study_ABC.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\sửa lại mới nhất\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\study_Color.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\sửa lại mới nhất\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\study_Number.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\sửa lại mới nhất\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\Video.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\sửa lại mới nhất\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\English4Kids.AssemblyInfoInputs.cache
+C:\NhapMonUngDungDiDong-nhom6\doan\sửa lại mới nhất\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\English4Kids.AssemblyInfo.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\sửa lại mới nhất\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\English4Kids.csproj.CoreCompileInputs.cache
+C:\NhapMonUngDungDiDong-nhom6\doan\sửa lại mới nhất\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\XamlC.stamp
+C:\NhapMonUngDungDiDong-nhom6\doan\sửa lại mới nhất\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\English4Kids.dll
+C:\NhapMonUngDungDiDong-nhom6\doan\sửa lại mới nhất\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\ref\English4Kids.dll
+C:\NhapMonUngDungDiDong-nhom6\doan\sửa lại mới nhất\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\English4Kids.pdb
+C:\NhapMonUngDungDiDong-nhom6\doan\updatenew\English4Kids\English4Kids\English4Kids\English4Kids\bin\Debug\netstandard2.0\English4Kids.deps.json
+C:\NhapMonUngDungDiDong-nhom6\doan\updatenew\English4Kids\English4Kids\English4Kids\English4Kids\bin\Debug\netstandard2.0\English4Kids.dll
+C:\NhapMonUngDungDiDong-nhom6\doan\updatenew\English4Kids\English4Kids\English4Kids\English4Kids\bin\Debug\netstandard2.0\ref\English4Kids.dll
+C:\NhapMonUngDungDiDong-nhom6\doan\updatenew\English4Kids\English4Kids\English4Kids\English4Kids\bin\Debug\netstandard2.0\English4Kids.pdb
+C:\NhapMonUngDungDiDong-nhom6\doan\updatenew\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\English4Kids.csproj.AssemblyReference.cache
+C:\NhapMonUngDungDiDong-nhom6\doan\updatenew\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\English4Kids.GeneratedMSBuildEditorConfig.editorconfig
+C:\NhapMonUngDungDiDong-nhom6\doan\updatenew\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\updatenew\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\login.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\updatenew\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\updatenew\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\Quiz.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\updatenew\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\Signup.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\updatenew\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\study.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\updatenew\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\studywithvideo.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\updatenew\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\study_ABC.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\updatenew\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\study_Color.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\updatenew\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\study_Number.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\updatenew\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\Video.xaml.g.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\updatenew\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\English4Kids.AssemblyInfoInputs.cache
+C:\NhapMonUngDungDiDong-nhom6\doan\updatenew\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\English4Kids.AssemblyInfo.cs
+C:\NhapMonUngDungDiDong-nhom6\doan\updatenew\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\English4Kids.csproj.CoreCompileInputs.cache
+C:\NhapMonUngDungDiDong-nhom6\doan\updatenew\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\XamlC.stamp
+C:\NhapMonUngDungDiDong-nhom6\doan\updatenew\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\English4Kids.dll
+C:\NhapMonUngDungDiDong-nhom6\doan\updatenew\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\ref\English4Kids.dll
+C:\NhapMonUngDungDiDong-nhom6\doan\updatenew\English4Kids\English4Kids\English4Kids\English4Kids\obj\Debug\netstandard2.0\English4Kids.pdb

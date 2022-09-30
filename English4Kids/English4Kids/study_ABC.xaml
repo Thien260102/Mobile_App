@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="English4Kids.study_ABC"
+             x:Name="CP_ABC"
+             BackgroundImageSource="f.jpg">
+
+    <StackLayout>
+        <ImageButton Source="back.jpg" VerticalOptions="Fill"
+                     HorizontalOptions="Start"
+                     Clicked="btn_back_clicked" CornerRadius="50" WidthRequest="70" 
+                     HeightRequest= "70" />
+        <CarouselView x:Name="CV" ItemsSource="{Binding Words}"
+                      Loop="False">
+            <CarouselView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout>
+                        <Frame HasShadow="True" BorderColor="DarkGray" 
+                               CornerRadius="5" Margin="20" 
+                               HorizontalOptions="Center" VerticalOptions="CenterAndExpand">
+                            <StackLayout>
+                                <Label HorizontalOptions="Center" VerticalOptions="Center">
+                                    <Label.FormattedText>
+                                        <FormattedString>
+                                            <Span TextColor="Black" Text="{Binding ChuDauTien}" FontSize="50"/>
+                                            <Span Text="{Binding ConLai}" FontSize="20"/>
+                                        </FormattedString>
+                                    </Label.FormattedText>
+                                </Label>
+                                <Label Text="{Binding NGHIA}" FontSize="20"
+                                       HorizontalOptions="Center" VerticalOptions="Center"/>
+                                <ImageButton Source="picturevolume"
+                                             HorizontalOptions="Center" VerticalOptions="Center"
+                                             Clicked="btn_volume_clicked"/>
+                            </StackLayout> 
+                        </Frame>
+                    </StackLayout>
+                </DataTemplate>
+            </CarouselView.ItemTemplate>
+        </CarouselView>
+        
+    </StackLayout>
+    
+</ContentPage>

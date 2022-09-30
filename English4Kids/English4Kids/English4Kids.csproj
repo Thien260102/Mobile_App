@@ -1,0 +1,194 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>portable</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="A.wav" />
+    <None Remove="sound\ABC\A.wav" />
+    <None Remove="sound\B.wav" />
+    <None Remove="sound\C.wav" />
+    <None Remove="sound\Color\Black.mp3" />
+    <None Remove="sound\Color\Blue.mp3" />
+    <None Remove="sound\Color\Brown.mp3" />
+    <None Remove="sound\Color\Green.mp3" />
+    <None Remove="sound\Color\Orange.mp3" />
+    <None Remove="sound\Color\Pink.mp3" />
+    <None Remove="sound\Color\Purple.mp3" />
+    <None Remove="sound\Color\Red.mp3" />
+    <None Remove="sound\Color\Yellow.mp3" />
+    <None Remove="sound\D.wav" />
+    <None Remove="sound\E.wav" />
+    <None Remove="sound\F.wav" />
+    <None Remove="sound\G.wav" />
+    <None Remove="sound\H.wav" />
+    <None Remove="sound\I.wav" />
+    <None Remove="sound\J.wav" />
+    <None Remove="sound\K.wav" />
+    <None Remove="sound\L.wav" />
+    <None Remove="sound\M.wav" />
+    <None Remove="sound\N.wav" />
+    <None Remove="sound\Number\0.wav" />
+    <None Remove="sound\Number\1.wav" />
+    <None Remove="sound\Number\2.wav" />
+    <None Remove="sound\Number\3.wav" />
+    <None Remove="sound\Number\4.wav" />
+    <None Remove="sound\Number\5.wav" />
+    <None Remove="sound\Number\6.wav" />
+    <None Remove="sound\Number\7.wav" />
+    <None Remove="sound\Number\8.wav" />
+    <None Remove="sound\Number\9.wav" />
+    <None Remove="sound\O.wav" />
+    <None Remove="sound\P.wav" />
+    <None Remove="sound\Q.wav" />
+    <None Remove="sound\R.wav" />
+    <None Remove="sound\S.wav" />
+    <None Remove="sound\T.wav" />
+    <None Remove="sound\U.wav" />
+    <None Remove="sound\V.wav" />
+    <None Remove="sound\W.wav" />
+    <None Remove="sound\X.wav" />
+    <None Remove="sound\Y.wav" />
+    <None Remove="sound\Z.wav" />
+  </ItemGroup>
+
+  <ItemGroup>
+	  
+    <EmbeddedResource Include="DoAn.db" />
+	  
+    <EmbeddedResource Include="sound\ABC\A.wav" />
+	  
+    <EmbeddedResource Include="sound\ABC\B.wav" />
+	  
+    <EmbeddedResource Include="sound\ABC\C.wav" />
+	  
+    <EmbeddedResource Include="sound\ABC\D.wav" />
+	  
+    <EmbeddedResource Include="sound\ABC\E.wav" />
+	  
+    <EmbeddedResource Include="sound\ABC\F.wav" />
+	  
+    <EmbeddedResource Include="sound\ABC\G.wav" />
+	  
+    <EmbeddedResource Include="sound\ABC\H.wav" />
+	  
+    <EmbeddedResource Include="sound\ABC\I.wav" />
+	  
+    <EmbeddedResource Include="sound\ABC\J.wav" />
+	  
+    <EmbeddedResource Include="sound\ABC\K.wav" />
+	  
+    <EmbeddedResource Include="sound\ABC\L.wav" />
+	  
+    <EmbeddedResource Include="sound\ABC\M.wav" />
+	  
+    <EmbeddedResource Include="sound\ABC\N.wav" />
+	  
+    <EmbeddedResource Include="sound\ABC\O.wav" />
+	  
+    <EmbeddedResource Include="sound\ABC\P.wav" />
+	  
+    <EmbeddedResource Include="sound\ABC\Q.wav" />
+	  
+    <EmbeddedResource Include="sound\ABC\R.wav" />
+	  
+    <EmbeddedResource Include="sound\ABC\S.wav" />
+	  
+    <EmbeddedResource Include="sound\ABC\T.wav" />
+	  
+    <EmbeddedResource Include="sound\ABC\U.wav" />
+	  
+    <EmbeddedResource Include="sound\ABC\V.wav" />
+	  
+    <EmbeddedResource Include="sound\ABC\W.wav" />
+	  
+    <EmbeddedResource Include="sound\ABC\X.wav" />
+	  
+    <EmbeddedResource Include="sound\ABC\Y.wav" />
+	  
+    <EmbeddedResource Include="sound\ABC\Z.wav" />
+	  
+    <EmbeddedResource Include="sound\Color\Black.mp3" />
+	  
+    <EmbeddedResource Include="sound\Color\Blue.mp3" />
+	  
+    <EmbeddedResource Include="sound\Color\Brown.mp3" />
+	  
+    <EmbeddedResource Include="sound\Color\Green.mp3" />
+	  
+    <EmbeddedResource Include="sound\Color\Orange.mp3" />
+	  
+    <EmbeddedResource Include="sound\Color\Pink.mp3" />
+	  
+    <EmbeddedResource Include="sound\Color\Purple.mp3" />
+	  
+    <EmbeddedResource Include="sound\Color\Red.mp3" />
+	  
+    <EmbeddedResource Include="sound\Color\Yellow.mp3" />
+	  
+    <EmbeddedResource Include="sound\Number\0.wav" />
+	  
+    <EmbeddedResource Include="sound\Number\1.wav" />
+	  
+    <EmbeddedResource Include="sound\Number\2.wav" />
+	  
+    <EmbeddedResource Include="sound\Number\3.wav" />
+	  
+    <EmbeddedResource Include="sound\Number\4.wav" />
+	  
+    <EmbeddedResource Include="sound\Number\5.wav" />
+	  
+    <EmbeddedResource Include="sound\Number\6.wav" />
+	  
+    <EmbeddedResource Include="sound\Number\7.wav" />
+	  
+    <EmbeddedResource Include="sound\Number\8.wav" />
+	  
+    <EmbeddedResource Include="sound\Number\9.wav" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="sqlite-net-pcl" Version="1.8.116" />
+    <PackageReference Include="Xam.Plugin.SimpleAudioPlayer" Version="1.6.0" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2401" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.7.3" />
+  </ItemGroup>
+  
+
+  <ItemGroup>
+    <EmbeddedResource Update="Quiz.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Video.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Signup.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="study_Number.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="study_Color.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="study_ABC.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="login.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="study.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="studywithvideo.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

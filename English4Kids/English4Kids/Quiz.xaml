@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="English4Kids.Quiz"
+             BackgroundImageSource="l.jpg">
+    <StackLayout>
+        <Label FontSize="24" x:Name="correctLabel" TextColor="White"></Label>
+        <Label  FontSize="24" x:Name="wrongLabel" TextColor="White"></Label>
+
+        <Label Margin="0,50,0,0" FontSize="40" x:Name="questionText" HorizontalOptions="CenterAndExpand" TextColor="White" BackgroundColor="MidnightBlue"></Label>
+        <Grid Margin="0,70,0,0">
+            <Button HeightRequest="100" FontSize="Large" Grid.Row="0" IsVisible="False"
+                    Grid.Column="0" StyleId="1" x:Name="But1" Clicked="But_Clicked" TextColor="White" BackgroundColor="MidnightBlue"/>
+
+            <Button HeightRequest="100"  FontSize="Large" Grid.Row="0" IsVisible="False"
+                    Grid.Column="1" StyleId="2" x:Name="But2" Clicked="But_Clicked" TextColor="White" BackgroundColor="MidnightBlue"/>
+
+            <Button HeightRequest="100" FontSize="Large" Grid.Row="1" IsVisible="False"
+                        Grid.Column="0" StyleId="3" x:Name="But3" Clicked="But_Clicked" TextColor="White" BackgroundColor="MidnightBlue"/>
+
+            <Button HeightRequest="100" FontSize="Large" Grid.Row="1" IsVisible="False"
+                        Grid.Column="1" StyleId="4" x:Name="But4" Clicked="But_Clicked" TextColor="White" BackgroundColor="MidnightBlue"/>
+
+        </Grid>
+        <ImageButton Source="home.jpg"
+                    VerticalOptions="EndAndExpand"
+                    HorizontalOptions="Center"
+                    Clicked="btn_home_clicked" WidthRequest="70" HeightRequest="70" CornerRadius="50"/>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="English4Kids.study"
+             BackgroundImageSource="b.jpg">
+    <ContentPage.Content>
+        <StackLayout>
+            <ImageButton Source="abc.jpg"
+                    HorizontalOptions="CenterAndExpand"
+                    VerticalOptions="CenterAndExpand"
+                    Clicked="btn_ABC_clicked" WidthRequest="190" HeightRequest="155"/>
+            <ImageButton Source="colors.jpg"
+                    HorizontalOptions="CenterAndExpand"
+                    VerticalOptions="CenterAndExpand"
+                    Clicked="btn_Color_clicked" WidthRequest="190" HeightRequest="165"/>
+            <ImageButton Source="numbers.jpg"
+                    HorizontalOptions="CenterAndExpand"
+                    VerticalOptions="CenterAndExpand"
+                    Clicked="btn_Number_clicked" WidthRequest="190" HeightRequest="165"/>
+            <ImageButton Source="home.jpg"
+                    VerticalOptions="EndAndExpand"
+                    HorizontalOptions="Center"
+                    Clicked="btn_home_clicked" WidthRequest="70" HeightRequest="70" CornerRadius="50"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

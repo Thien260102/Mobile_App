@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="English4Kids.Video">
+    <ContentPage.Content>
+        <StackLayout>
+            <ImageButton Source="back.jpg" VerticalOptions="Fill"
+                     HorizontalOptions="Start"
+                     Clicked="btn_back_clicked" CornerRadius="50" WidthRequest="70" 
+                     HeightRequest= "70" />
+            <WebView x:Name="Browser" HeightRequest="1000" WidthRequest="1000">
+
+            </WebView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
